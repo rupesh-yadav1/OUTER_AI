@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore environment config
+.env
+
+# Optional: editor/OS-specific stuff
+.vscode/
+.DS_Store
